@@ -13,24 +13,23 @@ body{
 
 .header {
 	text-align:center;
-	
 
-	
-	
 	
 }
 
-
-a{
-	
+.header a{
 	text-decoration:none;
 	color:black;
 	padding:0px 25px;
 	text-align:center;
 	font-size:19px;
+
 }
 
-a:hover{
+
+
+
+ .header a:hover{
 	
 	background-color:orange;
 	padding-left:5px;
@@ -40,21 +39,42 @@ a:hover{
 	
 }
 
-
-
-
-ssen{
-	width:1000px;
-	height:667px;
-	
-	padding:5px 0px 15px 10px ;
-	
-	
+.start{
+	text-align:left;
+	margin: 0px 10px;
 }
 
-.essen{
-	max-width:100%;
 
+.start a {
+	
+	text-transform: none;
+	color:black;
+	
+	font-size:19px;
+	padding:0px 25px;
+
+
+
+}
+
+.zitate{
+	margin: 0px 120px;
+
+
+}
+
+
+.zitate blockquote{
+	border: 2px  black dotted;
+	border-radius: 5px 8px 0px 15px;
+	background-image: linear-gradient(to left ,grey,white,white );
+}
+
+
+
+.essen{
+	max-width:1000px;
+	
 	height:auto;
 
 	
