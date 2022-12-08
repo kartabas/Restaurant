@@ -38,6 +38,28 @@ img {
 
 
 
+.zitate{
+	margin: 0px 90px;
+
+
+}
+
+
+.zitate blockquote{
+	border: 2px  black dotted;
+	border-radius: 5px 8px 0px 15px;
+	background-image: linear-gradient(to left ,grey,white,white );
+}
+
+.zitate h1{
+	font-size: 11px;
+	
+
+}
+
+
+
+
 .footer{
 	
 	background-color:orange;

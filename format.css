@@ -40,8 +40,8 @@ body{
 }
 
 .start{
-	text-align:left;
-	margin: 0px 10px;
+	text-align:center;
+	
 }
 
 
@@ -51,7 +51,7 @@ body{
 	color:black;
 	
 	font-size:19px;
-	padding:0px 25px;
+	
 
 
 
@@ -68,6 +68,12 @@ body{
 	border: 2px  black dotted;
 	border-radius: 5px 8px 0px 15px;
 	background-image: linear-gradient(to left ,grey,white,white );
+}
+
+.zitate h1{
+	font-size: 11px;
+	
+
 }
 
 
